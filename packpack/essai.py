@@ -1,2 +1,2 @@
 def try_me():
-    return 'success!'
+    return 'Bravo ma poule!'
